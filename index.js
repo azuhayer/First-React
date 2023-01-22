@@ -1,6 +1,1 @@
 ReactDOM.render(<h1>Hello, everyone!</h1>, document.getElementById("root"))
-ReactDOM.render(<h2>Hello, everyone!</h2>, document.getElementById("root"))
-ReactDOM.render(<h3>Hello, everyone!</h3>, document.getElementById("root"))
-ReactDOM.render(<h4>Hello, everyone!</h4>, document.getElementById("root"))
-ReactDOM.render(<h5>Hello, everyone!</h5>, document.getElementById("root"))
-ReactDOM.render(<h6>Hello, everyone!</h6>, document.getElementById("root"))
